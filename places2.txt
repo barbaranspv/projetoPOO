@@ -1,0 +1,100 @@
+Lisboa
+204.8
+0
+Maat - Museu - Arte e tecnologia - 9:00/20:00 - 0 - 2, K URBAN BEACH - Bar - 18:00/4:00 - 0 - 4.5 - 14 , Universidade de Lisboa - Universidade - Engenharia Informatica ; TI ; Gestão de informação , Universidade Nova de Lisboa - Universidade - Engenharia Informatica ; Gestão, Jardim Zoologico - Tematico - 15 - 9 - Leoes;Girafas ; Hipotamos ; Golfinhos;
+
+Porto
+168.7
+0
+Adega D. Leonor  - Bar - 18:00/4:00 - 0 - 4.5 - 3 , Universidade do Porto - Universidade - Engenharia Informatica ; TI ; Multimedia ; Engenharia eletrotécnica, Zenith  - Bar - 11:00/20:00 - 0 - 4.5 - 10
+
+Aveiro
+68.7
+0
+Costa Nova - Cultural - 0 - 0 - Praia ; Casas , Barba Azul  - Bar - 11:00/4:00 - 0 - 4.5 - 49  , Universidade de Aveiro - Universidade - Engenharia Informatica ;Engenharia Telematica ;Engenharia de Telecomunicações
+
+Figueira da Foz
+55.4
+0
+Praia do Relogio - Aquatico - 0 - 0 - Mar ; Ondas ; Surf, NB club  - Bar - 18:00/4:00 - 0 - 4.5 - 10, Johny Ringo - Bar - 18:00/4:00 - 0 - 3.5 - 2
+
+Guimaraes
+179.0
+0
+Castelo de Guimarães - Museu - Histórico - 9:00/20:00 - 0 - 0, Poncha's Bar - Bar - 18:00/4:00 - 0 - 4.5 - 3 , Museu Alberto Sampaio - Museu - Arte - 9:00/20:00 - 0 - 3
+
+Madrid
+510.4
+0
+Jardins do Retiro - Cultural - 0 - 0 - Plantas  , El Palentino - Bar - 18:00/4:00 - 0 - 4.5 - 3 , Macera TallerBar - Bar  - 19:00/4:00 - 0 - 4.0 - 7
+
+Barcelona
+901.4
+0
+Sagrada Familia - Museu - Arte e História - 9:00/20:00 - 0 - 5, Parque Guell  - Cultural - 9 - 0 - Arquitetura , La Rambla - Cultural - 0 - 0 - Rua de Barcelona, Mikkeller Bar Barcelona - Bar - 14:00/4:00 - 0 - 4.5 - 15 , Parque Aventura  - Tematico - 35 - 9 - Montanha Russa;Casa Fantasma , Universidad de Barcelona - Universidade - Engenharia Informatica ;TI ;Técnicos de Computadores 
+
+Amsterdam
+2072.3
+0
+ Hiding in Plain Sight - Bar - 18:00/4:00 - 0 - 4.5 - 13 , Vondelpark  - Cultural - 0 - 0 - Fontes; Lagos , University of Amsterdam - Universidade - Engenharia Informatica + Ciencias de Computação + Multimedia, Lost in Amsterdam - Bar - 18:00/4:00 - 0 - 4.5 - 12 , Rijksmuseum - Museu - Arte - 9:00/20:00 - 0 - 11
+
+Warsaw
+3221.9 
+0
+Panorama Sky Bar- Bar - 18:00/4:00 - 0 - 3.4 - 22,Skaryszewski Park  - Cultural - 0 - 0 - Animais , Warsaw University of Technology - Universidade - Engenharia Informatica ;TI;Gestão de informação
+
+Paris
+1575.2 
+0
+Louvre - Museu - Arte - 9:00/20:00 - 0 - 21, Musée Rodin- Museu - Arte - 9:00/20:00 - 0 - 10, Musée d'Orsay - Museu - Arte - 9:00/20:00 - 0 - 7, Bar 228  - Bar - 18:00/4:00 - 0 - 4.3 - 28 , Le Bar du Bristol - Bar - 18:00/4:00 - 0 - 2.3 - 28, Disneyland paris  - Tematico - 40 -12 - Minnie; Mickey, Parc des Buttes-Chaumont  - Cultural - 1 - 0 - , Paris Tech - Universidade - Engenharia Informatica ;TI ;Multimedia 
+
+Bruxelles
+1885.6 
+0
+Delirium Café  - Bar - 12:00/22:00 - 0 - 5 - 22, A La Mort Subite  - Bar - 18:00/4:00 - 0 - 4 - 9, Brussels Park  - Cultural - 0 - 0 - Natureza, Bois de la Cambre - Bar - 18:00/4:00 - 0 - 4.1 - 2, Brussels Faculty of Engineering - Universidade - Engenharia Informatica ;TI; Engenharia de telecomunicações
+
+Braga
+174.5 
+0
+SETRA  - Bar - 18:00/4:00 - 0 - 3.5 - 3, Juno  - Bar - 18:00/4:00 - 0 - 4.5 - 10, Bracalandia  - Tematico - 15 - 9 - Montanha Russa ; Carrinho de choque, Parque da Devesa  - Cultural - 1 - 0 - Pessoas, Univerisdade do Minho - Universidade - Engenharia Informatica ;
+
+Prague
+2614.0 
+0
+Anonymous Bar  - Bar - 18:00/4:00 - 0 - 3.5 - 22, Black Angel's Bar  - Bar - 18:00/4:00 - 0 - 4.2 - 1, Wild Sarka  - Bar - 18:00/4:00 - 0 - 2 - 1 , Central Park Pankrác  - Cultural - 0 - 0 - Parque citadino ;Patos ; Lagos, Czech Technical University - Universidade - Engenharia Informatica ; TI ; Engenharia de telecomunicações;
+
+Valencia
+850.9 
+0
+Universitat Politècnica de València  - Universidade - Engenharia Informatica ; Multimedia ;Engenharia de telecomunicações, Central bar - Bar - 18:00/4:00 - 0 - 4.5 - 11 , El léon bar  - Bar - 18:00/4:00 - 0 - 4.5 - 12 , Parque Natural de la albufeira  - Cultural - 4 - 0 - Habitat Natural de alguns animais 
+
+Vienna
+2700.0 
+0
+Hofburg  - Tematico - 15 - 9 -  Nao sei ;, Loos American Bar - Bar - 18:00/4:00 - 0 - 4.5 - 33 , Onyx Bar  - Bar - 18:00/4:00 - 0 - 4.5 - 13, Stadtpark  - Cultural - 1 - 0 - Abelhas; Vespas ; , SigmundFreud Park  - Cultural - 2 - 0 - Coisas Relacionadas com freud, Prater - Tematico - 20 - 12 - Muita Beleza, TU Wien  - Universidade - Engenharia Informatica ;Multimedia ;Engenharia de telecomunicações
+
+Covilhã
+191.3
+0
+North Walls PUB  - Bar - 18:00/4:00 - 0 - 4.5 - 8 , Vielas Bar  - Bar - 18:00/4:00 - 0 - 3.6 - 12, Universidade da Beira Interior - Universidade - Engenharia Informatica ;Multimedia , Jardim Municipal - Cultural - 0 - 0 - Flores Raras
+ 
+Budapest
+2913.4 
+0
+Tuk Tuk bar  - Bar - 18:00/4:00 - 0 - 3.4 - 12, instant club  - Bar - 18:00/4:00 - 0 - 4.5 - 11, Garden of Philosophy  - Cultural - 1 - 0 - Estátuas de Grandes filosofos, Orczy Garden  - Cultural - 2 - 0 - Rosas; Camélias ; Relvados, Budapest University of Technology and Economics  - Universidade - Engenharia Informatica ;Multimedia ; Engenharia de telematica 
+
+Salamanca
+313
+0
+La Chupitería  - Bar - 18:00/4:00 - 0 - 5 - 22, Birdland  - Bar - 18:00/4:00 - 0 - 2.5 - 12,  Garrido Park  - Cultural - 0 - 0 - Pessoas, Universidad de Salamanca - Universidade - Engenharia Informatica ;Multimedia e Design
+
+Coimbra
+0
+0
+Universidade de Coimbra - Universidade - Engenharia Informatica ;Design e Multimedia, ISEC - Universidade - Engenharia Informatica  ,Museu da Àgua - Museu - Museu de Agua - 9:00/20:00 - 0 - 1, Parque Manuel Braga  - Cultural - 0- 0 - Italia; Rio Mondego; Ponte Santa Clara, Parque Verde - Cultural - 0- 0- Rio Mondego; Urso, Moelas  - Bar - 18:00/4:00 - 0 - 1000 - 100
+
+Rome
+2346.13
+0
+Open Baladin  - Bar - 18:00/4:00 - 0 - 4.5 - 22, The Race Club  - Bar - 18:00/4:00 - 0 - 4.5 - 12 , Sistin Chapel - Museu - Arte Religiosa -  9:00/20:00 - 0 - 11, Capitoline Museums - Museu - Arte Religiosa - 9:00/20:00 - 0 - 2 , Pantheon - Museu -  Arte Religiosa - 9:00/20:00 - 0 - 4 , Colosseum - Museu -  Arte Romana - 9:00/20:00 - 0 - 14, IBM Systems Technical University - Universidade - Engenharia Informatica ;
+ 
